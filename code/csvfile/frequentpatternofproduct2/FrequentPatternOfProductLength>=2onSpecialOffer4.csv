@@ -1,0 +1,22 @@
+support,itemsets,length
+0.028169014084507043,frozenset({'AWC Logo Cap'}),1
+0.014084507042253521,frozenset({'Bike Wash - Dissolver'}),1
+0.14084507042253522,"frozenset({'Classic Vest, S'})",1
+0.30985915492957744,"frozenset({'Full-Finger Gloves, L'})",1
+0.028169014084507043,"frozenset({'Full-Finger Gloves, M'})",1
+0.028169014084507043,frozenset({'Hitch Rack - 4-Bike'}),1
+0.014084507042253521,"frozenset({'Long-Sleeve Logo Jersey, L'})",1
+0.028169014084507043,"frozenset({'Mountain Bike Socks, M'})",1
+0.028169014084507043,"frozenset({'Racing Socks, L'})",1
+0.028169014084507043,"frozenset({'Road-350-W Yellow, 48'})",1
+0.014084507042253521,"frozenset({'Short-Sleeve Classic Jersey, XL'})",1
+0.014084507042253521,"frozenset({'Touring-1000 Yellow, 46'})",1
+0.014084507042253521,frozenset({'Water Bottle - 30 oz.'}),1
+0.19718309859154928,"frozenset({""Women's Mountain Shorts, L""})",1
+0.22535211267605634,"frozenset({""Women's Mountain Shorts, S""})",1
+0.014084507042253521,"frozenset({""Women's Tights, S""})",1
+0.014084507042253521,"frozenset({'Long-Sleeve Logo Jersey, L', 'AWC Logo Cap'})",2
+0.014084507042253521,"frozenset({'Classic Vest, S', 'Hitch Rack - 4-Bike'})",2
+0.014084507042253521,"frozenset({'Classic Vest, S', 'Touring-1000 Yellow, 46'})",2
+0.028169014084507043,"frozenset({'Full-Finger Gloves, L', 'Full-Finger Gloves, M'})",2
+0.056338028169014086,"frozenset({""Women's Mountain Shorts, L"", ""Women's Mountain Shorts, S""})",2

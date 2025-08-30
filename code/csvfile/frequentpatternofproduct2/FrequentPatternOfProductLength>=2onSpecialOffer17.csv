@@ -1,0 +1,5 @@
+support,itemsets,length
+0.3333333333333333,frozenset({'Saddle 1'}),1
+0.3333333333333333,frozenset({'Saddle 2'}),1
+0.6666666666666666,frozenset({'Saddle 3'}),1
+0.3333333333333333,"frozenset({'Saddle 1', 'Saddle 2'})",2

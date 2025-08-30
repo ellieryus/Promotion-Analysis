@@ -1,0 +1,16 @@
+support,itemsets,length
+0.6491228070175439,"frozenset({'Touring-1000 Yellow, 46'})",1
+0.45614035087719296,"frozenset({'Touring-1000 Yellow, 50'})",1
+0.37719298245614036,"frozenset({'Touring-1000 Yellow, 54'})",1
+0.6578947368421053,"frozenset({'Touring-1000 Yellow, 60'})",1
+0.34210526315789475,"frozenset({'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 50'})",2
+0.23684210526315788,"frozenset({'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 54'})",2
+0.47368421052631576,"frozenset({'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60'})",2
+0.22807017543859648,"frozenset({'Touring-1000 Yellow, 50', 'Touring-1000 Yellow, 54'})",2
+0.32456140350877194,"frozenset({'Touring-1000 Yellow, 60', 'Touring-1000 Yellow, 50'})",2
+0.22807017543859648,"frozenset({'Touring-1000 Yellow, 60', 'Touring-1000 Yellow, 54'})",2
+0.18421052631578946,"frozenset({'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 50', 'Touring-1000 Yellow, 54'})",3
+0.2807017543859649,"frozenset({'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60', 'Touring-1000 Yellow, 50'})",3
+0.21052631578947367,"frozenset({'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60', 'Touring-1000 Yellow, 54'})",3
+0.18421052631578946,"frozenset({'Touring-1000 Yellow, 60', 'Touring-1000 Yellow, 50', 'Touring-1000 Yellow, 54'})",3
+0.16666666666666666,"frozenset({'Touring-1000 Yellow, 46', 'Touring-1000 Yellow, 60', 'Touring-1000 Yellow, 50', 'Touring-1000 Yellow, 54'})",4

@@ -1,0 +1,86 @@
+support,itemsets,length
+0.11527377521613832,frozenset({'AWC Logo Cap'}),1
+0.043227665706051875,frozenset({'Bike Wash - Dissolver'}),1
+0.037463976945244955,"frozenset({'Classic Vest, M'})",1
+0.16714697406340057,"frozenset({'Classic Vest, S'})",1
+0.1239193083573487,"frozenset({'Full-Finger Gloves, L'})",1
+0.069164265129683,"frozenset({'Full-Finger Gloves, M'})",1
+0.03170028818443804,"frozenset({'Half-Finger Gloves, M'})",1
+0.06628242074927954,frozenset({'Hitch Rack - 4-Bike'}),1
+0.025936599423631124,frozenset({'Hydration Pack - 70 oz.'}),1
+0.11239193083573487,"frozenset({'Long-Sleeve Logo Jersey, L'})",1
+0.01729106628242075,"frozenset({""Men's Bib-Shorts, M""})",1
+0.025936599423631124,"frozenset({'Mountain Bike Socks, M'})",1
+0.07204610951008646,"frozenset({'Racing Socks, L'})",1
+0.01440922190201729,"frozenset({'Road-350-W Yellow, 40'})",1
+0.01729106628242075,"frozenset({'Road-350-W Yellow, 48'})",1
+0.023054755043227664,"frozenset({'Road-650 Black, 52'})",1
+0.011527377521613832,"frozenset({'Road-650 Red, 44'})",1
+0.01729106628242075,"frozenset({'Road-650 Red, 60'})",1
+0.01440922190201729,"frozenset({'Road-750 Black, 48'})",1
+0.04610951008645533,"frozenset({'Short-Sleeve Classic Jersey, L'})",1
+0.138328530259366,"frozenset({'Short-Sleeve Classic Jersey, XL'})",1
+0.03170028818443804,"frozenset({'Sport-100 Helmet, Black'})",1
+0.043227665706051875,"frozenset({'Sport-100 Helmet, Blue'})",1
+0.020172910662824207,"frozenset({'Sport-100 Helmet, Red'})",1
+0.011527377521613832,"frozenset({'Touring-1000 Blue, 60'})",1
+0.05763688760806916,frozenset({'Water Bottle - 30 oz.'}),1
+0.1037463976945245,"frozenset({""Women's Mountain Shorts, L""})",1
+0.11527377521613832,"frozenset({""Women's Mountain Shorts, S""})",1
+0.023054755043227664,"frozenset({""Women's Tights, L""})",1
+0.02881844380403458,"frozenset({""Women's Tights, S""})",1
+0.01440922190201729,"frozenset({'Bike Wash - Dissolver', 'AWC Logo Cap'})",2
+0.011527377521613832,"frozenset({'Classic Vest, M', 'AWC Logo Cap'})",2
+0.037463976945244955,"frozenset({'Classic Vest, S', 'AWC Logo Cap'})",2
+0.011527377521613832,"frozenset({'Half-Finger Gloves, M', 'AWC Logo Cap'})",2
+0.01440922190201729,"frozenset({'Hitch Rack - 4-Bike', 'AWC Logo Cap'})",2
+0.023054755043227664,"frozenset({'Long-Sleeve Logo Jersey, L', 'AWC Logo Cap'})",2
+0.037463976945244955,"frozenset({'Short-Sleeve Classic Jersey, XL', 'AWC Logo Cap'})",2
+0.011527377521613832,"frozenset({'Sport-100 Helmet, Blue', 'AWC Logo Cap'})",2
+0.01440922190201729,"frozenset({'Water Bottle - 30 oz.', 'AWC Logo Cap'})",2
+0.023054755043227664,"frozenset({'Classic Vest, S', 'Bike Wash - Dissolver'})",2
+0.011527377521613832,"frozenset({'Bike Wash - Dissolver', 'Hitch Rack - 4-Bike'})",2
+0.01440922190201729,"frozenset({'Bike Wash - Dissolver', 'Long-Sleeve Logo Jersey, L'})",2
+0.025936599423631124,"frozenset({'Bike Wash - Dissolver', 'Short-Sleeve Classic Jersey, XL'})",2
+0.011527377521613832,"frozenset({'Water Bottle - 30 oz.', 'Bike Wash - Dissolver'})",2
+0.020172910662824207,"frozenset({'Classic Vest, S', 'Classic Vest, M'})",2
+0.011527377521613832,"frozenset({'Classic Vest, M', 'Hitch Rack - 4-Bike'})",2
+0.01729106628242075,"frozenset({'Classic Vest, M', 'Short-Sleeve Classic Jersey, L'})",2
+0.01729106628242075,"frozenset({'Classic Vest, M', 'Short-Sleeve Classic Jersey, XL'})",2
+0.011527377521613832,"frozenset({'Classic Vest, S', 'Half-Finger Gloves, M'})",2
+0.037463976945244955,"frozenset({'Classic Vest, S', 'Hitch Rack - 4-Bike'})",2
+0.011527377521613832,"frozenset({'Classic Vest, S', 'Hydration Pack - 70 oz.'})",2
+0.025936599423631124,"frozenset({'Classic Vest, S', 'Long-Sleeve Logo Jersey, L'})",2
+0.023054755043227664,"frozenset({'Classic Vest, S', 'Short-Sleeve Classic Jersey, L'})",2
+0.05763688760806916,"frozenset({'Classic Vest, S', 'Short-Sleeve Classic Jersey, XL'})",2
+0.011527377521613832,"frozenset({'Classic Vest, S', 'Sport-100 Helmet, Black'})",2
+0.025936599423631124,"frozenset({'Water Bottle - 30 oz.', 'Classic Vest, S'})",2
+0.011527377521613832,"frozenset({'Full-Finger Gloves, L', 'Full-Finger Gloves, M'})",2
+0.011527377521613832,"frozenset({'Half-Finger Gloves, M', 'Long-Sleeve Logo Jersey, L'})",2
+0.01440922190201729,"frozenset({'Half-Finger Gloves, M', 'Short-Sleeve Classic Jersey, XL'})",2
+0.020172910662824207,"frozenset({'Hitch Rack - 4-Bike', 'Long-Sleeve Logo Jersey, L'})",2
+0.020172910662824207,"frozenset({'Hitch Rack - 4-Bike', 'Short-Sleeve Classic Jersey, L'})",2
+0.0345821325648415,"frozenset({'Hitch Rack - 4-Bike', 'Short-Sleeve Classic Jersey, XL'})",2
+0.011527377521613832,"frozenset({'Water Bottle - 30 oz.', 'Hitch Rack - 4-Bike'})",2
+0.025936599423631124,"frozenset({'Long-Sleeve Logo Jersey, L', 'Short-Sleeve Classic Jersey, XL'})",2
+0.01729106628242075,"frozenset({'Long-Sleeve Logo Jersey, L', 'Sport-100 Helmet, Blue'})",2
+0.025936599423631124,"frozenset({'Water Bottle - 30 oz.', 'Long-Sleeve Logo Jersey, L'})",2
+0.01729106628242075,"frozenset({'Short-Sleeve Classic Jersey, XL', 'Short-Sleeve Classic Jersey, L'})",2
+0.020172910662824207,"frozenset({'Water Bottle - 30 oz.', 'Short-Sleeve Classic Jersey, XL'})",2
+0.023054755043227664,"frozenset({""Women's Mountain Shorts, L"", ""Women's Mountain Shorts, S""})",2
+0.01729106628242075,"frozenset({'Classic Vest, S', 'Short-Sleeve Classic Jersey, XL', 'AWC Logo Cap'})",3
+0.011527377521613832,"frozenset({'Long-Sleeve Logo Jersey, L', 'Sport-100 Helmet, Blue', 'AWC Logo Cap'})",3
+0.011527377521613832,"frozenset({'Bike Wash - Dissolver', 'Classic Vest, S', 'Hitch Rack - 4-Bike'})",3
+0.01729106628242075,"frozenset({'Classic Vest, S', 'Bike Wash - Dissolver', 'Short-Sleeve Classic Jersey, XL'})",3
+0.011527377521613832,"frozenset({'Classic Vest, S', 'Classic Vest, M', 'Hitch Rack - 4-Bike'})",3
+0.011527377521613832,"frozenset({'Classic Vest, S', 'Classic Vest, M', 'Short-Sleeve Classic Jersey, L'})",3
+0.011527377521613832,"frozenset({'Classic Vest, S', 'Half-Finger Gloves, M', 'Short-Sleeve Classic Jersey, XL'})",3
+0.01440922190201729,"frozenset({'Classic Vest, S', 'Hitch Rack - 4-Bike', 'Short-Sleeve Classic Jersey, L'})",3
+0.023054755043227664,"frozenset({'Classic Vest, S', 'Hitch Rack - 4-Bike', 'Short-Sleeve Classic Jersey, XL'})",3
+0.011527377521613832,"frozenset({'Classic Vest, S', 'Long-Sleeve Logo Jersey, L', 'Short-Sleeve Classic Jersey, XL'})",3
+0.011527377521613832,"frozenset({'Water Bottle - 30 oz.', 'Classic Vest, S', 'Long-Sleeve Logo Jersey, L'})",3
+0.01440922190201729,"frozenset({'Classic Vest, S', 'Short-Sleeve Classic Jersey, XL', 'Short-Sleeve Classic Jersey, L'})",3
+0.011527377521613832,"frozenset({'Water Bottle - 30 oz.', 'Classic Vest, S', 'Short-Sleeve Classic Jersey, XL'})",3
+0.011527377521613832,"frozenset({'Hitch Rack - 4-Bike', 'Long-Sleeve Logo Jersey, L', 'Short-Sleeve Classic Jersey, XL'})",3
+0.011527377521613832,"frozenset({'Hitch Rack - 4-Bike', 'Short-Sleeve Classic Jersey, XL', 'Short-Sleeve Classic Jersey, L'})",3
+0.011527377521613832,"frozenset({'Classic Vest, S', 'Hitch Rack - 4-Bike', 'Short-Sleeve Classic Jersey, XL', 'Short-Sleeve Classic Jersey, L'})",4

@@ -1,0 +1,32 @@
+support,itemsets,length
+0.5,"frozenset({'Mountain-500 Silver, 40'})",1
+0.5967741935483871,"frozenset({'Mountain-500 Silver, 42'})",1
+0.43548387096774194,"frozenset({'Mountain-500 Silver, 44'})",1
+0.5806451612903226,"frozenset({'Mountain-500 Silver, 48'})",1
+0.6129032258064516,"frozenset({'Mountain-500 Silver, 52'})",1
+0.3387096774193548,"frozenset({'Mountain-500 Silver, 42', 'Mountain-500 Silver, 40'})",2
+0.2903225806451613,"frozenset({'Mountain-500 Silver, 44', 'Mountain-500 Silver, 40'})",2
+0.3387096774193548,"frozenset({'Mountain-500 Silver, 48', 'Mountain-500 Silver, 40'})",2
+0.2903225806451613,"frozenset({'Mountain-500 Silver, 52', 'Mountain-500 Silver, 40'})",2
+0.3064516129032258,"frozenset({'Mountain-500 Silver, 42', 'Mountain-500 Silver, 44'})",2
+0.46774193548387094,"frozenset({'Mountain-500 Silver, 42', 'Mountain-500 Silver, 48'})",2
+0.41935483870967744,"frozenset({'Mountain-500 Silver, 42', 'Mountain-500 Silver, 52'})",2
+0.3064516129032258,"frozenset({'Mountain-500 Silver, 48', 'Mountain-500 Silver, 44'})",2
+0.24193548387096775,"frozenset({'Mountain-500 Silver, 52', 'Mountain-500 Silver, 44'})",2
+0.4032258064516129,"frozenset({'Mountain-500 Silver, 52', 'Mountain-500 Silver, 48'})",2
+0.22580645161290322,"frozenset({'Mountain-500 Silver, 44', 'Mountain-500 Silver, 42', 'Mountain-500 Silver, 40'})",3
+0.27419354838709675,"frozenset({'Mountain-500 Silver, 42', 'Mountain-500 Silver, 48', 'Mountain-500 Silver, 40'})",3
+0.25806451612903225,"frozenset({'Mountain-500 Silver, 42', 'Mountain-500 Silver, 40', 'Mountain-500 Silver, 52'})",3
+0.24193548387096775,"frozenset({'Mountain-500 Silver, 44', 'Mountain-500 Silver, 48', 'Mountain-500 Silver, 40'})",3
+0.1935483870967742,"frozenset({'Mountain-500 Silver, 44', 'Mountain-500 Silver, 52', 'Mountain-500 Silver, 40'})",3
+0.24193548387096775,"frozenset({'Mountain-500 Silver, 52', 'Mountain-500 Silver, 48', 'Mountain-500 Silver, 40'})",3
+0.24193548387096775,"frozenset({'Mountain-500 Silver, 42', 'Mountain-500 Silver, 48', 'Mountain-500 Silver, 44'})",3
+0.22580645161290322,"frozenset({'Mountain-500 Silver, 42', 'Mountain-500 Silver, 44', 'Mountain-500 Silver, 52'})",3
+0.3709677419354839,"frozenset({'Mountain-500 Silver, 42', 'Mountain-500 Silver, 48', 'Mountain-500 Silver, 52'})",3
+0.22580645161290322,"frozenset({'Mountain-500 Silver, 52', 'Mountain-500 Silver, 48', 'Mountain-500 Silver, 44'})",3
+0.1935483870967742,"frozenset({'Mountain-500 Silver, 44', 'Mountain-500 Silver, 42', 'Mountain-500 Silver, 48', 'Mountain-500 Silver, 40'})",4
+0.1774193548387097,"frozenset({'Mountain-500 Silver, 44', 'Mountain-500 Silver, 42', 'Mountain-500 Silver, 40', 'Mountain-500 Silver, 52'})",4
+0.22580645161290322,"frozenset({'Mountain-500 Silver, 42', 'Mountain-500 Silver, 48', 'Mountain-500 Silver, 40', 'Mountain-500 Silver, 52'})",4
+0.1774193548387097,"frozenset({'Mountain-500 Silver, 44', 'Mountain-500 Silver, 52', 'Mountain-500 Silver, 48', 'Mountain-500 Silver, 40'})",4
+0.20967741935483872,"frozenset({'Mountain-500 Silver, 42', 'Mountain-500 Silver, 48', 'Mountain-500 Silver, 44', 'Mountain-500 Silver, 52'})",4
+0.16129032258064516,"frozenset({'Mountain-500 Silver, 48', 'Mountain-500 Silver, 42', 'Mountain-500 Silver, 52', 'Mountain-500 Silver, 44', 'Mountain-500 Silver, 40'})",5

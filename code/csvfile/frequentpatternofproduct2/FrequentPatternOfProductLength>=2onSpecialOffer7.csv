@@ -1,0 +1,256 @@
+support,itemsets,length
+0.7083333333333334,"frozenset({'Mountain-100 Black, 38'})",1
+0.75,"frozenset({'Mountain-100 Black, 42'})",1
+0.5833333333333334,"frozenset({'Mountain-100 Black, 44'})",1
+0.8333333333333334,"frozenset({'Mountain-100 Black, 48'})",1
+0.7916666666666666,"frozenset({'Mountain-100 Silver, 38'})",1
+0.6666666666666666,"frozenset({'Mountain-100 Silver, 42'})",1
+0.7916666666666666,"frozenset({'Mountain-100 Silver, 44'})",1
+0.5833333333333334,"frozenset({'Mountain-100 Silver, 48'})",1
+0.625,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38'})",2
+0.4166666666666667,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Black, 44'})",2
+0.625,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38'})",2
+0.5416666666666666,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 38'})",2
+0.5416666666666666,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 42'})",2
+0.5,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 44'})",2
+0.4583333333333333,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 48'})",2
+0.4583333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 44'})",2
+0.6666666666666666,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42'})",2
+0.625,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38'})",2
+0.5416666666666666,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 42'})",2
+0.5833333333333334,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 44'})",2
+0.5,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 48'})",2
+0.5416666666666666,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 44'})",2
+0.5,"frozenset({'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",2
+0.5,"frozenset({'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",2
+0.5416666666666666,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Black, 44'})",2
+0.3333333333333333,"frozenset({'Mountain-100 Silver, 48', 'Mountain-100 Black, 44'})",2
+0.6666666666666666,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 38'})",2
+0.5416666666666666,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 42'})",2
+0.6666666666666666,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 44'})",2
+0.5416666666666666,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 48'})",2
+0.5833333333333334,"frozenset({'Mountain-100 Silver, 42', 'Mountain-100 Silver, 38'})",2
+0.625,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",2
+0.5416666666666666,"frozenset({'Mountain-100 Silver, 48', 'Mountain-100 Silver, 38'})",2
+0.5833333333333334,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",2
+0.4166666666666667,"frozenset({'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",2
+0.4166666666666667,"frozenset({'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44'})",2
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44'})",3
+0.5416666666666666,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Black, 38'})",3
+0.5,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 38'})",3
+0.5,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 42'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44'})",3
+0.4166666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48'})",3
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44'})",3
+0.3333333333333333,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",3
+0.4166666666666667,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",3
+0.375,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44'})",3
+0.25,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 38'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 42'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Silver, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 38'})",3
+0.375,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",3
+0.4166666666666667,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 38'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",3
+0.3333333333333333,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",3
+0.2916666666666667,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44'})",3
+0.4166666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Black, 44'})",3
+0.4166666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",3
+0.4166666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",3
+0.4166666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44'})",3
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44'})",3
+0.5416666666666666,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Silver, 38'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Silver, 42'})",3
+0.5416666666666666,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Silver, 44'})",3
+0.5,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Silver, 48'})",3
+0.5,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 42', 'Mountain-100 Silver, 38'})",3
+0.5,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 38'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",3
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",3
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",3
+0.5416666666666666,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44'})",3
+0.3333333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44'})",3
+0.4166666666666667,"frozenset({'Mountain-100 Silver, 42', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",3
+0.3333333333333333,"frozenset({'Mountain-100 Silver, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",3
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",3
+0.3333333333333333,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44'})",3
+0.4583333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 42', 'Mountain-100 Silver, 38'})",3
+0.5416666666666666,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",3
+0.5,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 38'})",3
+0.5,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",3
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",3
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44'})",3
+0.5,"frozenset({'Mountain-100 Silver, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",3
+0.4166666666666667,"frozenset({'Mountain-100 Silver, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 38'})",3
+0.4166666666666667,"frozenset({'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",3
+0.375,"frozenset({'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",3
+0.3333333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44'})",4
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44'})",4
+0.4166666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 38'})",4
+0.4166666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 42'})",4
+0.4166666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44'})",4
+0.4166666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48'})",4
+0.4583333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 38'})",4
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",4
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 38'})",4
+0.4166666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",4
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44'})",4
+0.2916666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",4
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44'})",4
+0.25,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Silver, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.25,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.375,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",4
+0.25,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",4
+0.25,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44'})",4
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 38'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",4
+0.4166666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 38'})",4
+0.4166666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",4
+0.2916666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44'})",4
+0.375,"frozenset({'Mountain-100 Silver, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Silver, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 38'})",4
+0.2916666666666667,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",4
+0.2916666666666667,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",4
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",4
+0.4166666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44'})",4
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 42', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",4
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44'})",4
+0.4166666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Silver, 42', 'Mountain-100 Silver, 38'})",4
+0.4583333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",4
+0.4583333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 38'})",4
+0.4166666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",4
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",4
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Black, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44'})",4
+0.4166666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",4
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 38'})",4
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",4
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 42', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.4583333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.4583333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",4
+0.2916666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44'})",4
+0.375,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 38'})",4
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",4
+0.4166666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",4
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 38'})",4
+0.375,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",4
+0.3333333333333333,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",4
+0.375,"frozenset({'Mountain-100 Silver, 42', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 38'})",4
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44'})",5
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44'})",5
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",5
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",5
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 42'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44'})",5
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 48'})",5
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48'})",5
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44'})",5
+0.25,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",5
+0.375,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",5
+0.25,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.25,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",5
+0.25,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.25,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",5
+0.25,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",5
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",5
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",5
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.375,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.375,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.3333333333333333,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",5
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 42'})",6
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 44'})",6
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",6
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",6
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",6
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",6
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",6
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",6
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48'})",6
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",6
+0.25,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.25,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",6
+0.25,"frozenset({'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.25,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",6
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48'})",6
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.3333333333333333,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.2916666666666667,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",6
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 42'})",7
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",7
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48'})",7
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",7
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",7
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",7
+0.25,"frozenset({'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",7
+0.2916666666666667,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",7
+0.25,"frozenset({'Mountain-100 Black, 42', 'Mountain-100 Silver, 38', 'Mountain-100 Black, 38', 'Mountain-100 Black, 48', 'Mountain-100 Black, 44', 'Mountain-100 Silver, 44', 'Mountain-100 Silver, 48', 'Mountain-100 Silver, 42'})",8

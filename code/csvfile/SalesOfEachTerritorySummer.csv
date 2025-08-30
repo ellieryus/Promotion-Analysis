@@ -1,0 +1,11 @@
+TerritoryID,Name,State,TotalOrderQty,TotalDue
+1,Northwest,"Oregon, Washington, Idaho, Montana, Wyoming",120640.0,644181651.9016
+2,Northeast,"Maine, New York, New Jersey, Vermont, Massachusetts, Rhode Island, Connecticut, New Hampshire, Pennsylvania",45889.0,154904820.6088
+3,Central,"Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin",22630.0,94846678.1939
+4,Southwest,"Arizona, New Mexico, Nevada, Utah",250800.0,1150783731.9296
+5,Southeast,"Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia",55900.0,187491666.648
+6,Canada,Canada,254782.0,984428315.2249
+7,France,France,59385.0,276811383.2875
+8,Germany,Germany,20790.0,86168547.063
+9,Australia,Australia,29172.0,108236469.618
+10,United Kingdom,United Kingdom,50750.0,230661910.5525

@@ -1,0 +1,8 @@
+support,itemsets,length
+0.9666666666666667,"frozenset({'Sport-100 Helmet, Black'})",1
+0.9,"frozenset({'Sport-100 Helmet, Blue'})",1
+0.9333333333333333,"frozenset({'Sport-100 Helmet, Red'})",1
+0.9,"frozenset({'Sport-100 Helmet, Black', 'Sport-100 Helmet, Blue'})",2
+0.9,"frozenset({'Sport-100 Helmet, Black', 'Sport-100 Helmet, Red'})",2
+0.8666666666666667,"frozenset({'Sport-100 Helmet, Red', 'Sport-100 Helmet, Blue'})",2
+0.8666666666666667,"frozenset({'Sport-100 Helmet, Black', 'Sport-100 Helmet, Red', 'Sport-100 Helmet, Blue'})",3
